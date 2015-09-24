@@ -1,0 +1,79 @@
+  [
+    {
+	"Name" : "Iron Sword",
+	"Attack" : "288",
+	"Sharpness" : "Yellow",
+	"Sharpness+1": "Green",
+	"Element Type" : "none",
+	"Element" : "0",
+	"Awaken" : "none",
+	"Multiplier" : "4.8",
+	"Affitnity" : "0"
+    },
+    {
+    "Name" : "Iron Sword+",
+	"Attack" : "336",
+	"Sharpness" : "Yellow",
+	"Sharpness+1": "Green",
+	"Element Type" : "none",
+	"Element" : "0",
+	"Awaken" : "none",
+	"Multiplier" : "4.8",
+	"Affinity" : "0"
+    },
+    {
+      	"Name" : "Buster Sword",
+	"Attack" : "384",
+	"Sharpness" : "Green",
+	"Sharpness+1": "Green",
+	"Element Type" : "none",
+	"Element" : "0",
+	"Awaken" : "none",
+	"Multiplier" : "4.8",
+	"Affinity" : "0"
+    },
+    {
+    "Name" : "Buster Sword+",
+	"Attack" : "480",
+	"Sharpness" : "Green",
+	"Sharpness+1": "Green",
+	"Element Type" : "none",
+	"Element" : "0",
+	"Awaken" : "none",
+	"Multiplier" : "4.8",
+	"Affinity" : "0"
+    },
+    {
+      	"Name" : "Ravanger Blade",
+	"Attack" : "528",
+	"Sharpness" : "Green",
+	"Sharpness+1": "Green",
+	"Element Type" : "none",
+	"Element" : "0",
+	"Awaken" : "none",
+	"Multiplier" : "4.8",
+	"Affinity" : "0"
+    },
+    {
+      	"Name" : "Ravanger Blade+",
+	"Attack" : "624",
+	"Sharpness" : "Green",
+	"Sharpness+1": "Green",
+	"Element Type" : "none",
+	"Element" : "0",
+	"Awaken" : "none",
+	"Multiplier" : "4.8",
+	"Affinity" : "0"
+    },
+    {
+      	"Name" : "Lacerator Blade",
+	"Attack" : "720",
+	"Sharpness" : "Green",
+	"Sharpness+1": "Green",
+	"Element Type" : "Fire",
+	"Element" : "250",
+	"Awaken" : "yes",
+	"Multiplier" : "4.8",
+	"Affinity" : "5"
+    }
+  ]
